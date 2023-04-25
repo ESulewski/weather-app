@@ -1,0 +1,21 @@
+body {
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(255, 200, 124) 0%,
+    rgb(252, 251, 121) 90%
+  );
+}
+
+.forecast {
+  color: #38598b;
+  font-family: "Anonymous Pro", monospace;
+}
+h1 {
+  font-family: "Kalam", cursive;
+  display: inline;
+}
+.container {
+  border: 5px solid rgba(93, 186, 241, 0.4);
+  border-radius: 20px;
+  margin: 10px;
+}
